@@ -13,8 +13,8 @@ A proposed fix is to provide an updated `libint-9.dll` to the target/debug direc
 ## 🚀 Getting started
 
 1. Install rust using [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html)
-2. Install the diesel-cli with `cargo install diesel_cli`
-3. Install [postgresql](https://www.postgresql.org/download/) since diesel requires some binaries to operate
+2. Install [postgresql](https://www.postgresql.org/download/) since diesel requires some binaries to operate
+3. Install the diesel-cli with `cargo install diesel_cli`
 4. Install docker and run the compose
 5. Run the diesel migration command `diesel migration run`
 6. Build and run using `cargo run`
